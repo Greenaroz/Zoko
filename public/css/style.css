@@ -63,9 +63,9 @@ html {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.4rem;
-  color: #262626;
+  color: #5f5f69;
   line-height: 1.857143;
 }
 
@@ -76,31 +76,37 @@ p:last-child {
 h1,
 .h1 {
   font-size: 6rem;
+  color: #5f5f69;
 }
 
 h2,
 .h2 {
   font-size: 4.8rem;
+  color: #5f5f69;
 }
 
 h3,
 .h3 {
   font-size: 3.6rem;
+  color: #5f5f69;
 }
 
 h4,
 .h4 {
   font-size: 2.4rem;
+  color: #5f5f69;
 }
 
 h5,
 .h5 {
   font-size: 1.8rem;
+  color: #5f5f69;
 }
 
 h6,
 .h6 {
   font-size: 1.2rem;
+  color: #5f5f69;
 }
 
 h1,
@@ -117,7 +123,7 @@ h6,
 .h6 {
   line-height: 1.208333;
   font-weight: 600;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 a {
@@ -333,7 +339,7 @@ button:active {
 2. Buttons
 ------------------------------------*/
 .btn {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   font-size: 1.4rem;
   color: #ffffff;
@@ -361,7 +367,7 @@ button:active {
 }
 .btn.btn-primary:hover, .btn.btn-primary:hover:focus, .btn.btn-primary:hover:active, .btn.btn-primary:hover:visited {
   background-image: none;
-  color: #262626;
+  color: #5f5f69;
 }
 .btn.btn-red {
   background-color: #ea4335;
@@ -375,7 +381,7 @@ button:active {
   background-image: none;
 }
 .btn.btn-border {
-  color: #262626;
+  color: #5f5f69;
   line-height: 39px;
   background-image: none;
   border-width: 1px;
@@ -383,7 +389,7 @@ button:active {
   border-radius: 21px;
 }
 .btn.btn-border:focus, .btn.btn-border:visited, .btn.btn-border:active, .btn.btn-border:active:focus {
-  color: #262626;
+  color: #5f5f69;
   background-image: none;
 }
 .btn.btn-border:hover, .btn.btn-border:hover:focus, .btn.btn-border:hover:active, .btn.btn-border:hover:visited {
@@ -392,12 +398,12 @@ button:active {
 .btn.btn-white {
   background-image: none;
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   line-height: 39px;
   border: 1px solid #ffffff;
 }
 .btn.btn-white:focus, .btn.btn-white:visited, .btn.btn-white:active, .btn.btn-white:active:focus {
-  color: #262626;
+  color: #5f5f69;
   background-color: #ffffff;
   background-image: none;
 }
@@ -437,16 +443,16 @@ button:active {
 .btn.btn-shadow {
   border-radius: 3px;
   background-image: none;
-  color: #262626;
+  color: #5f5f69;
   background-color: #ffffff;
   -webkit-box-shadow: -2.847px 6.395px 11px 0px rgba(0, 0, 0, 0.1) !important;
           box-shadow: -2.847px 6.395px 11px 0px rgba(0, 0, 0, 0.1) !important;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .btn.btn-shadow:focus, .btn.btn-shadow:visited, .btn.btn-shadow:active, .btn.btn-shadow:active:focus {
   background-image: none;
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
 }
 .btn.btn-shadow:hover, .btn.btn-shadow:hover:focus, .btn.btn-shadow:hover:active, .btn.btn-shadow:hover:visited {
   -webkit-box-shadow: none !important;
@@ -454,7 +460,7 @@ button:active {
   color: #ffffff;
 }
 .btn.btn-sm {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 3rem;
@@ -478,11 +484,11 @@ button:active {
   margin-right: 8px;
 }
 .btn.btn-simple.btn-primary {
-  color: #262626;
+  color: #5f5f69;
 }
 .btn.btn-simple.btn-primary:focus, .btn.btn-simple.btn-primary:visited, .btn.btn-simple.btn-primary:active, .btn.btn-simple.btn-primary:active:focus {
   background-color: transparent;
-  color: #262626;
+  color: #5f5f69;
 }
 .btn.btn-simple.btn-primary:hover, .btn.btn-simple.btn-primary:hover:focus, .btn.btn-simple.btn-primary:hover:active, .btn.btn-simple.btn-primary:hover:active:focus, .btn.btn-simple.btn-primary:hover:visited {
   background-color: transparent;
@@ -542,8 +548,8 @@ button:active {
 
 .link-group a {
   text-decoration: underline;
-  color: #262626;
-  font-family: "Lato", sans-serif;
+  color: #5f5f69;
+  font-family: "Rubik", sans-serif;
   display: inline-block;
   font-weight: 600;
 }
@@ -569,7 +575,7 @@ button:active {
 }
 .to-down:hover {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
 }
 
 /*------------------------------------
@@ -599,8 +605,8 @@ button:active {
   transition: all 0.3s ease;
 }
 .navbar-default .navbar-nav > li > a {
-  font-family: "Lato", sans-serif;
-  color: #262626;
+  font-family: "Rubik", sans-serif;
+  color: #5f5f69;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -633,8 +639,8 @@ button:active {
   top: 0;
 }
 .navbar-default .navbar-nav .dropdown .dropdown-menu > li > a {
-  color: #262626;
-  font-family: "Lato", sans-serif;
+  color: #5f5f69;
+  font-family: "Rubik", sans-serif;
   padding: 5px 10px;
 }
 .navbar-default .navbar-nav .dropdown .dropdown-menu > li:hover > a {
@@ -682,7 +688,7 @@ button:active {
 .navbar-default.style-2 .navbar-nav > li.login-item > a {
   border: 1px solid #fff;
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 7px 35px;
   margin: 7px 17px;
   border-radius: 17px;
@@ -785,7 +791,7 @@ button:active {
 .navbar-default.style-6 .navbar-nav > li.signup-item > a {
   border: 1px solid #ffffff;
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 4px 24px;
   margin: 10px 5px;
   border-radius: 15px;
@@ -897,7 +903,7 @@ button:active {
   background-color: #ffffff;
 }
 .navbar-default.style-11 .navbar-nav > li > a {
-  color: #262626;
+  color: #5f5f69;
 }
 .navbar-default.style-11 .navbar-nav > li.login-item > a {
   border: 1px solid #ea4335;
@@ -928,7 +934,7 @@ button:active {
   background-color: #ffffff;
 }
 .navbar-default.style-12 .navbar-nav > li > a {
-  color: #262626;
+  color: #5f5f69;
 }
 .navbar-default.style-12 .navbar-nav > li.login-item > a {
   border-width: 1px;
@@ -1081,7 +1087,7 @@ button:active {
 }
 .cps-banner.style-2 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   margin-top: 20px;
   margin-bottom: 0;
@@ -1096,7 +1102,7 @@ button:active {
 }
 .cps-banner.style-3 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   margin-top: 20px;
   margin-bottom: 0;
@@ -1157,11 +1163,11 @@ button:active {
 .cps-banner.style-4 .cps-banner-form [type=submit] {
   border: none;
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   width: 120px;
   float: left;
   line-height: 43px;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
@@ -1186,11 +1192,11 @@ button:active {
 }
 .cps-banner.style-5 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 20px;
 }
 .cps-banner.style-5 .sign-in-text {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 0;
   margin-top: 10px;
 }
@@ -1216,13 +1222,13 @@ button:active {
 /*** Banner Style 7 ***/
 .cps-banner.style-7 {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-banner.style-7 .cps-banner-content {
   z-index: 2;
 }
 .cps-banner.style-7 .cps-banner-text {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.8rem;
   font-weight: 600;
   margin-top: 10px;
@@ -1239,7 +1245,7 @@ button:active {
 .cps-banner.style-7 .cps-banner-form [type=submit] {
   border: none;
   display: inline-block;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   line-height: 41px;
   width: 154px;
@@ -1253,7 +1259,7 @@ button:active {
   vertical-align: middle;
   display: inline-block;
   margin-left: 20px;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .cps-banner.style-7 .cps-banner-form .sign-in-text a {
   text-decoration: underline;
@@ -1285,13 +1291,13 @@ button:active {
 }
 .cps-banner.style-8 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 20px;
 }
 .cps-banner.style-8 .cps-button-group .version-info {
   margin-bottom: 0;
   font-size: 1.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   opacity: 0.44;
   margin-top: 10px;
 }
@@ -1308,7 +1314,7 @@ button:active {
 
 /*** Banner Style 9 ***/
 .cps-banner.style-9 {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-banner.style-9 .cps-banner-content {
   z-index: 2;
@@ -1320,7 +1326,7 @@ button:active {
 }
 .cps-banner.style-9 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 20px;
 }
 .cps-banner.style-9 .cps-banner-form {
@@ -1336,7 +1342,7 @@ button:active {
   float: left;
 }
 .cps-banner.style-9 .cps-banner-form [type=submit] {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   border: none;
   line-height: 44px;
   border-radius: 22px;
@@ -1382,7 +1388,7 @@ button:active {
 }
 .cps-banner.style-10 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   margin-top: 20px;
   margin-bottom: 0;
@@ -1506,7 +1512,7 @@ button:active {
 .cps-banner.style-12 .cps-banner-text {
   font-size: 1.8rem;
   font-weight: 400;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 10px;
   margin-bottom: 0;
 }
@@ -1546,7 +1552,7 @@ button:active {
 }
 .cps-banner.style-13 .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   margin-top: 20px;
   margin-bottom: 0;
@@ -1578,7 +1584,7 @@ button:active {
   float: left;
 }
 .cps-banner.style-13 .cps-banner-form [type=submit] {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   border: none;
   line-height: 44px;
   border-radius: 3px;
@@ -1673,11 +1679,11 @@ button:active {
 .cps-banner.style-14 .cps-banner-form [type=submit] {
   border: none;
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   width: 120px;
   float: left;
   line-height: 43px;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
@@ -1707,7 +1713,7 @@ button:active {
 }
 .cps-banner.style-15 .cps-banner-item .cps-banner-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 15px;
   margin-bottom: 0;
 }
@@ -1742,7 +1748,7 @@ button:active {
 }
 .cps-banner.style-16 .cps-banner-text {
   font-size: 1.6rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   line-height: 2.8rem;
   margin-top: 30px;
 }
@@ -1761,7 +1767,7 @@ button:active {
   padding: 50px;
 }
 .cps-banner.style-16 .cps-banner-form .account-form input:not([type=submit]):not([type=radio]):not([type=checkbox]), .cps-banner.style-16 .cps-banner-form .account-form select, .cps-banner.style-16 .cps-banner-form .account-form textarea {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   font-size: 1.6rem;
   padding: 2px 25px;
@@ -1769,7 +1775,7 @@ button:active {
 }
 .cps-banner.style-16 .cps-banner-form .account-form label {
   font-size: 1.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: rgba(38, 38, 38, 0.7);
 }
 .cps-banner.style-16 .cps-banner-form .account-form label a {
@@ -1778,7 +1784,7 @@ button:active {
 }
 .cps-banner.style-16 .cps-banner-form .account-form [type=submit] {
   background-image: none;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 3.8rem;
@@ -1901,7 +1907,7 @@ button:active {
   margin-bottom: 20px;
 }
 .cps-progress-item .cps-progress-on {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #000;
   margin-bottom: 5px;
 }
@@ -1924,7 +1930,7 @@ button:active {
   top: -28px;
   margin: 0;
   right: -8px;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #000000;
   font-size: 1.4rem;
 }
@@ -1985,7 +1991,7 @@ button:active {
   background: none;
 }
 .cps-service-box.style-2 .service-more {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   margin-top: 15px;
   display: inline-block;
@@ -2000,7 +2006,7 @@ button:active {
   font-size: 3.5rem;
 }
 .cps-service-box.style-3 .service-more {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   margin-top: 15px;
   display: inline-block;
@@ -2016,7 +2022,7 @@ button:active {
   background: none;
 }
 .cps-service-box.style-4 .service-more {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   margin-top: 15px;
   display: inline-block;
@@ -2037,7 +2043,7 @@ button:active {
   background: none;
 }
 .cps-service-box.style-5 .service-more {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   margin-top: 15px;
   display: inline-block;
@@ -2054,7 +2060,7 @@ button:active {
   background: none;
 }
 .cps-service-box.style-6 .service-more {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   margin-top: 15px;
   display: inline-block;
@@ -2072,7 +2078,7 @@ button:active {
   font-size: 3.5rem;
 }
 .cps-service-box.style-7 .service-more {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   margin-top: 15px;
   display: inline-block;
@@ -2433,8 +2439,8 @@ button:active {
           box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
   text-align: center;
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
-  color: #262626;
+  font-family: "Rubik", sans-serif;
+  color: #5f5f69;
   border-radius: 3px;
   padding: 21px 20px;
   position: relative;
@@ -2517,7 +2523,7 @@ button:active {
   position: absolute;
   z-index: 2;
   border-radius: 50%;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
   height: 70px;
@@ -2549,11 +2555,11 @@ button:active {
   font-weight: 500;
 }
 .option-box p {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 15px;
 }
 .option-box a {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .option-box a .fa {
   -webkit-transition: all 0.3s ease;
@@ -2590,29 +2596,29 @@ button:active {
 }
 .cps-package .cps-package-header .cps-pack-name {
   margin: 0;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-gradient-bg .cps-package .cps-package-header .cps-pack-name, .cps-theme-bg .cps-package .cps-package-header .cps-pack-name {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-package .cps-pack-price {
   text-align: center;
   padding: 0 30px;
   font-size: 4.6rem;
   font-weight: 900;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 15px;
   margin-bottom: 5px;
 }
 .cps-package .cps-pack-price .currency {
   font-weight: 400;
   font-size: 2.2rem;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-package .cps-pack-price .pack-duration {
   font-size: 1.8rem;
   font-weight: 400;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-package .cps-pack-feature-list {
   list-style: none;
@@ -2620,10 +2626,10 @@ button:active {
   padding: 0 30px;
   text-align: center;
   line-height: 3rem;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-theme-bg .cps-package .cps-pack-feature-list, .cps-gradient-bg .cps-package .cps-pack-feature-list {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-package .cps-pack-footer {
   padding: 30px;
@@ -2635,7 +2641,7 @@ button:active {
 }
 .cps-package.style-2 .cps-package-header .cps-pack-name {
   font-size: 1.4rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   border-bottom: 1px solid #e7e7e7;
   padding: 0 30px 27px;
@@ -2643,7 +2649,7 @@ button:active {
 .cps-package.style-2 .cps-pack-price {
   font-weight: 700;
   font-size: 3.6rem;
-  color: #262626;
+  color: #5f5f69;
   margin-top: 40px;
   margin-bottom: 11px;
 }
@@ -2658,7 +2664,7 @@ button:active {
 }
 .cps-package.style-3 .cps-package-header .cps-pack-name {
   font-size: 1.4rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   border-bottom: 1px solid #e7e7e7;
   padding: 0 30px 27px;
@@ -2666,7 +2672,7 @@ button:active {
 .cps-package.style-3 .cps-pack-price {
   font-weight: 700;
   font-size: 3.6rem;
-  color: #262626;
+  color: #5f5f69;
   margin-top: 40px;
   margin-bottom: 11px;
 }
@@ -2687,7 +2693,7 @@ button:active {
 }
 .cps-package.style-4 .cps-package-header .cps-pack-name {
   font-size: 1.4rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   border-bottom: 1px solid #e7e7e7;
   padding: 0 30px 27px;
@@ -2695,7 +2701,7 @@ button:active {
 .cps-package.style-4 .cps-pack-price {
   font-weight: 700;
   font-size: 3.6rem;
-  color: #262626;
+  color: #5f5f69;
   margin-top: 40px;
   margin-bottom: 11px;
 }
@@ -2735,7 +2741,7 @@ button:active {
 }
 .cps-package.style-5 .cps-package-header .cps-pack-name {
   font-size: 1.4rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   border-bottom: 1px solid #e7e7e7;
   padding: 0 30px 27px;
@@ -2743,7 +2749,7 @@ button:active {
 .cps-package.style-5 .cps-pack-price {
   font-weight: 700;
   font-size: 3.6rem;
-  color: #262626;
+  color: #5f5f69;
   margin-top: 40px;
   margin-bottom: 11px;
 }
@@ -2912,7 +2918,7 @@ button:active {
   font-size: 4.8rem;
 }
 .cps-counter-item .cps-fact-number {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 3.2rem;
   margin-bottom: 2px;
 }
@@ -2935,7 +2941,7 @@ button:active {
 .cps-counter-item.style-2 .cps-counter-body {
   width: 100%;
   float: left;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-counter-item.style-2 .cps-counter-body .cps-fact-number {
   font-size: 1.8rem;
@@ -2944,7 +2950,7 @@ button:active {
 }
 .cps-counter-item.style-2 .cps-counter-body .cps-fact-name {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 600;
   margin-top: -5px;
 }
@@ -3004,7 +3010,7 @@ button:active {
   margin-bottom: 30px;
 }
 .filter-button-group button {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.2rem;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
@@ -3084,7 +3090,7 @@ button:active {
   color: #ffffff;
 }
 .cps-testimonial-item blockquote {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 2.2rem;
   line-height: 3.5rem;
   border: none;
@@ -3149,7 +3155,7 @@ button:active {
   padding: 35px 40px;
 }
 .cps-testimonials-wrap.style-2 .cps-testimonial-item blockquote {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: italic;
   font-size: 1.4rem;
   line-height: 2.6rem;
@@ -3167,13 +3173,13 @@ button:active {
 }
 .cps-testimonials-wrap.style-2 .cps-testimonial-item .cps-reviewer-position {
   font-size: 1.1rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 0;
   margin-top: 8px;
 }
 .cps-testimonials-wrap.style-2 .cps-testimonial-item .cps-reviewer-company {
   font-size: 1.1rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 0;
   margin-top: -3px;
 }
@@ -3185,7 +3191,7 @@ button:active {
 }
 .style-3 .cps-testimonials-wrap .cps-testimonial-item {
   padding: 60px 30px 35px;
-  color: #262626;
+  color: #5f5f69;
   margin: 40px 15px 10px;
   border-radius: 3px;
   background-color: #fff;
@@ -3206,7 +3212,7 @@ button:active {
 .style-3 .cps-testimonials-wrap .cps-testimonial-item blockquote {
   font-size: 1.4rem;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: italic;
   line-height: 2.6rem;
 }
@@ -3222,13 +3228,13 @@ button:active {
 }
 .style-3 .cps-testimonials-wrap .cps-testimonial-item .cps-reviewer-position {
   font-size: 1.1rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 0;
   margin-top: 8px;
 }
 .style-3 .cps-testimonials-wrap .cps-testimonial-item .cps-reviewer-company {
   font-size: 1.1rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 0;
   margin-top: -3px;
 }
@@ -3433,7 +3439,7 @@ button:active {
   margin-bottom: 3px;
 }
 .cps-member .cps-member-position {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 600;
   margin-bottom: 5px;
 }
@@ -3498,12 +3504,12 @@ button:active {
 .cps-member.style-3 .cps-member-name {
   font-size: 1.8rem;
   font-weight: 400;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-member.style-3 .cps-member-position {
   font-size: 1.4rem;
   font-weight: 400;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-member.style-3 .cps-member-socials a {
   border-radius: 50%;
@@ -3537,10 +3543,10 @@ button:active {
   margin: 0;
   display: block;
   font-size: 2.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
   line-height: 3rem;
-  color: #262626;
+  color: #5f5f69;
   padding: 17px 27px;
 }
 .instruction-tabs .nav-tabs li a:focus, .instruction-tabs .nav-tabs li a:hover {
@@ -3657,13 +3663,13 @@ button:active {
   margin-top: 0;
   font-size: 1.8rem;
   margin-bottom: 2px;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-post .cps-post-title a {
   color: inherit;
 }
 .cps-post .cps-post-date {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.2rem;
   margin-bottom: 6px;
 }
@@ -3671,7 +3677,7 @@ button:active {
   margin: 0;
 }
 .cps-post .cps-post-readmore {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 600;
   display: inline-block;
   margin-top: 15px;
@@ -3748,12 +3754,12 @@ button:active {
 }
 .cps-cta.style-3 .cps-cta-text {
   font-size: 1.8rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 35px;
 }
 .cps-cta.style-3 .cps-cta-text a {
   text-decoration: underline;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-cta.style-3 .cps-cta-text a:hover {
   text-decoration: none;
@@ -3782,12 +3788,12 @@ button:active {
 }
 .cps-cta.style-4 .cps-cta-text {
   font-size: 1.4rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 35px;
 }
 .cps-cta.style-4 .cps-cta-text a {
   text-decoration: underline;
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-cta.style-4 .cps-cta-text a:hover {
   text-decoration: none;
@@ -3865,7 +3871,7 @@ button:active {
   margin-bottom: 30px;
 }
 .faq .question {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 600;
   margin-bottom: 5px;
 }
@@ -3903,7 +3909,7 @@ button:active {
   border-radius: 3px;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 600;
   font-size: 1.4rem;
   color: #ffffff;
@@ -3921,7 +3927,7 @@ button:active {
   border: none;
 }
 .cps-faq-accordion .panel-body {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   opacity: 0.7;
   padding: 12px 0 10px 30px;
@@ -3930,8 +3936,8 @@ button:active {
   font-weight: 400;
 }
 .cps-faq-accordion.style-2 .panel-body {
-  color: #262626;
-  font-family: "Open Sans", sans-serif;
+  color: #5f5f69;
+  font-family: "Rubik", sans-serif;
 }
 
 /*------------------------------------
@@ -3943,7 +3949,7 @@ textarea {
   display: block;
   width: 100%;
   outline: none !important;
-  color: #262626;
+  color: #5f5f69;
   background-color: transparent;
   line-height: 3.4rem;
   border-width: 1px;
@@ -4090,7 +4096,7 @@ textarea {
   margin: 0 5px;
   display: inline-block;
   vertical-align: middle;
-  color: #262626;
+  color: #5f5f69;
 }
 .subscription-style-2 label {
   vertical-align: middle;
@@ -4109,7 +4115,7 @@ textarea {
   width: 270px;
 }
 .subscription-style-2 .cps-subscription [type=submit] {
-  color: #262626;
+  color: #5f5f69;
   line-height: 3.8rem;
 }
 
@@ -4172,7 +4178,7 @@ textarea {
   width: calc(100% - 144px);
 }
 .subscription-style-4 .cps-subscription [type=submit] {
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   color: #ffffff;
   border: 1px solid transparent;
   line-height: 42px;
@@ -4244,7 +4250,7 @@ textarea {
 }
 .account-form.style-2 label {
   font-size: 1.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   color: #b2e7fa;
   margin-top: 25px;
@@ -4335,7 +4341,7 @@ footer .cps-footer-widget-area .cps-widget ul li {
 }
 footer .cps-footer-widget-area .cps-widget ul li a {
   color: #ffffff;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 footer .cps-footer-widget-area .cps-widget ul.column-2-menu {
   zoom: 1;
@@ -4392,7 +4398,7 @@ footer .cps-footer-widget-area .widget-socials a + a {
   margin-left: 7px;
 }
 footer .cps-footer-lower {
-  background-color: #262626;
+  background-color: #5f5f69;
   padding: 22px 0;
   color: #fff;
 }
@@ -4412,7 +4418,7 @@ footer .cps-footer-lower .footer-menu li + li {
 }
 footer.style-2 .cps-footer-upper {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 80px 0 55px;
 }
 footer.style-2 .cps-footer-widget-area .cps-widget {
@@ -4422,7 +4428,7 @@ footer.style-2 .cps-footer-widget-area .cps-widget .cps-widget-title {
   margin-bottom: 20px;
 }
 footer.style-2 .cps-footer-widget-area .cps-widget ul li a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-2 .cps-footer-widget-area .social-widget .cps-widget-title {
   margin-bottom: 12px;
@@ -4432,7 +4438,7 @@ footer.style-2 .cps-footer-widget-area .payment-method-widget .cps-widget-title 
 }
 footer.style-3 .cps-footer-upper {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 120px 0 50px;
 }
 footer.style-3 .cps-footer-widget-area .cps-footer-logo {
@@ -4442,11 +4448,11 @@ footer.style-3 .cps-footer-widget-area .cps-widget ul li {
   line-height: 3rem;
 }
 footer.style-3 .cps-footer-widget-area .cps-widget ul li a {
-  color: #262626;
-  font-family: "Open Sans", sans-serif;
+  color: #5f5f69;
+  font-family: "Rubik", sans-serif;
 }
 footer.style-3 .cps-footer-widget-area .cps-widget .recent-post .recent-post-title {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-3 .cps-footer-widget-area .cps-widget-title {
   font-size: 1.8rem;
@@ -4454,7 +4460,7 @@ footer.style-3 .cps-footer-widget-area .cps-widget-title {
 }
 footer.style-3 .cps-footer-lower {
   background-color: transparent;
-  color: #262626;
+  color: #5f5f69;
   padding: 0;
 }
 footer.style-3 .cps-footer-lower .container {
@@ -4464,11 +4470,11 @@ footer.style-3 .cps-footer-lower .container {
   padding-bottom: 21px;
 }
 footer.style-3 .cps-footer-lower a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-4 .cps-footer-upper {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 60px 0 10px;
 }
 footer.style-4 .cps-footer-widget-area .cps-footer-logo {
@@ -4478,28 +4484,28 @@ footer.style-4 .cps-footer-widget-area .cps-widget ul li {
   line-height: 3rem;
 }
 footer.style-4 .cps-footer-widget-area .cps-widget ul li a {
-  color: #262626;
-  font-family: "Open Sans", sans-serif;
+  color: #5f5f69;
+  font-family: "Rubik", sans-serif;
 }
 footer.style-4 .cps-footer-widget-area .cps-widget .recent-post .recent-post-title {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-4 .cps-footer-widget-area .cps-widget-title {
-  color: #262626;
+  color: #5f5f69;
   font-size: 1.8rem;
   margin-bottom: 12px;
 }
 footer.style-4 .cps-footer-lower {
   background-color: #f7f7f7;
-  color: #262626;
+  color: #5f5f69;
   padding: 22px 0;
 }
 footer.style-4 .cps-footer-lower a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-5 .cps-footer-upper {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-5 .cps-footer-upper.cps-gray-bg {
   background-color: #f7f7f7;
@@ -4508,8 +4514,8 @@ footer.style-5 .cps-footer-widget-area .cps-widget ul li {
   line-height: 3rem;
 }
 footer.style-5 .cps-footer-widget-area .cps-widget ul li a {
-  color: #262626;
-  font-family: "Open Sans", sans-serif;
+  color: #5f5f69;
+  font-family: "Rubik", sans-serif;
 }
 footer.style-5 .cps-footer-widget-area .cps-widget .cps-socials a {
   background-color: #f7f7f7;
@@ -4518,16 +4524,16 @@ footer.style-5 .cps-footer-widget-area .cps-widget .cps-socials a:hover {
   color: #ffffff;
 }
 footer.style-5 .cps-footer-widget-area .cps-widget .recent-post .recent-post-title {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-5 .cps-footer-widget-area .cps-widget-title {
-  color: #262626;
+  color: #5f5f69;
   font-size: 1.8rem;
   margin-bottom: 12px;
 }
 footer.style-5 .cps-footer-lower {
   background-color: #f7f7f7;
-  color: #262626;
+  color: #5f5f69;
   padding: 22px 0;
 }
 footer.style-5 .cps-footer-lower.cps-theme-bg {
@@ -4537,11 +4543,11 @@ footer.style-5 .cps-footer-lower.cps-theme-bg a {
   color: #ffffff;
 }
 footer.style-5 .cps-footer-lower a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-6 .cps-footer-upper {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 80px 0;
 }
 footer.style-6 .cps-footer-upper .cps-footer-logo {
@@ -4568,10 +4574,10 @@ footer.style-6 .cps-footer-upper .cps-socials a + a {
 }
 footer.style-6 .cps-footer-lower {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-6 .cps-footer-lower a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-6 .cps-footer-lower ul {
   margin: 0 0 20px;
@@ -4584,7 +4590,7 @@ footer.style-6 .cps-footer-lower ul li a {
 }
 footer.style-7 .cps-footer-upper {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
   padding: 112px 0 46px;
 }
 footer.style-7 .cps-footer-upper .cps-footer-logo {
@@ -4611,10 +4617,10 @@ footer.style-7 .cps-footer-upper .cps-socials a + a {
 }
 footer.style-7 .cps-footer-lower {
   background-color: #ffffff;
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-7 .cps-footer-lower a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-7 .cps-footer-lower ul {
   margin: 0 0 20px;
@@ -4647,7 +4653,7 @@ footer.style-8 .cps-socials a:hover {
   color: #ffffff;
 }
 footer.style-8 a {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-8 .copyright {
   text-align: right;
@@ -4680,7 +4686,7 @@ footer.style-9 a {
   color: inherit;
 }
 footer.style-9 a:hover {
-  color: #262626;
+  color: #5f5f69;
 }
 footer.style-9 .copyright {
   text-align: right;
@@ -4712,19 +4718,19 @@ footer.style-9 .copyright {
   border-radius: 0;
 }
 .breadcrumb li {
-  color: #262626;
+  color: #5f5f69;
 }
 .breadcrumb li a {
-  color: #262626;
+  color: #5f5f69;
 }
 .breadcrumb li.active {
-  color: #262626;
+  color: #5f5f69;
 }
 .breadcrumb li + li:before {
   content: "-";
   display: inline-block;
   padding: 0 3px 0 1px;
-  color: #262626;
+  color: #5f5f69;
 }
 
 /*** Page header 2 ***/
@@ -4961,7 +4967,7 @@ footer.style-9 .copyright {
 }
 .post-list .post-title {
   font-size: 1.8rem;
-  color: #262626;
+  color: #5f5f69;
   margin-top: 0;
   margin-bottom: 3px;
 }
@@ -4970,13 +4976,13 @@ footer.style-9 .copyright {
 }
 .post-list .post-date {
   font-size: 1.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 5px;
 }
 .post-list .post-readmore {
   margin-top: 5px;
   display: inline-block;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .nav-links {
@@ -4988,7 +4994,7 @@ footer.style-9 .copyright {
 .page-numbers,
 a.page-numbers {
   font-weight: 400;
-  color: #262626;
+  color: #5f5f69;
   height: 40px;
   width: 40px;
   line-height: 38px;
@@ -5004,7 +5010,7 @@ a.page-numbers + .page-numbers {
 a.page-numbers:focus,
 a.page-numbers:visted,
 a.page-numbers:active {
-  color: #262626 !important;
+  color: #5f5f69 !important;
 }
 
 /*** Sidebar ***/
@@ -5013,7 +5019,7 @@ a.page-numbers:active {
 }
 .sidebar .widget .widget-title {
   margin-top: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.4rem;
   font-weight: 600;
   border-radius: 3px;
@@ -5033,7 +5039,7 @@ a.page-numbers:active {
 .sidebar .widget form select,
 .sidebar .widget form textarea {
   font-size: 1.4rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   line-height: 2rem;
   border: 1px solid rgba(38, 38, 38, 0.33);
@@ -5042,7 +5048,7 @@ a.page-numbers:active {
   margin-bottom: 0;
 }
 .sidebar .widget label {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-size: 1.4rem;
   font-weight: 400;
   margin-bottom: 10px;
@@ -5073,7 +5079,7 @@ a.page-numbers:active {
 }
 .sidebar .widget ul li a {
   display: inline-block;
-  color: #262626;
+  color: #5f5f69;
   line-height: 3rem;
 }
 .sidebar .widget ul li a:before {
@@ -5098,14 +5104,14 @@ a.page-numbers:active {
   width: 100%;
   float: left;
   font-size: 1.4rem;
-  font-family: "Lato", sans-serif;
-  color: #262626;
+  font-family: "Rubik", sans-serif;
+  color: #5f5f69;
   margin-top: 12px;
 }
 .sidebar .tags a {
   display: inline-block;
   font-size: 1.2rem;
-  color: #262626;
+  color: #5f5f69;
   border: 1px solid rgba(38, 38, 38, 0.15);
   border-radius: 3px;
   line-height: 23px;
@@ -5147,7 +5153,7 @@ a.page-numbers:active {
 }
 .post-single .post-metas {
   font-size: 1.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-top: 15px;
   margin-bottom: 0;
 }
@@ -5180,7 +5186,7 @@ a.page-numbers:active {
   padding: 0 10px;
 }
 .post-single .post-share label {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 400;
   font-size: 1.8rem;
   margin: 0;
@@ -5232,7 +5238,7 @@ a.page-numbers:active {
 }
 .comments-section .comment-reply {
   float: right;
-  color: #262626;
+  color: #5f5f69;
 }
 
 /*** Comment Form ***/
@@ -5329,7 +5335,7 @@ a.page-numbers:active {
 }
 .countdown-comingsoon .section_count {
   display: inline-block;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 .countdown-comingsoon .section_count + .section_count {
   margin-left: 50px;
@@ -5411,13 +5417,13 @@ a.page-numbers:active {
 }
 .cps-head-quote-section .cps-head-quote .cps-headquote-text {
   font-size: 2.2rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   margin-bottom: 0;
   font-weight: 500;
 }
 .cps-head-quote-section .cps-head-quote .cps-headquote-by {
   margin-bottom: 0;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
 }
 .cps-head-quote-section .cps-head-quote .cps-headquote-by .cps-headquote-name {
@@ -5477,7 +5483,7 @@ a.page-numbers:active {
   margin-left: 11px;
 }
 .cps-roadmap-section .socials a:hover {
-  background-color: #262626;
+  background-color: #5f5f69;
   color: #ffffff;
 }
 
@@ -5561,16 +5567,16 @@ a.page-numbers:active {
   border-radius: 3px;
 }
 .cps-roadmap-right .cps-contact-form ::-webkit-input-placeholder {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-roadmap-right .cps-contact-form ::-moz-placeholder {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-roadmap-right .cps-contact-form :-ms-input-placeholder {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-roadmap-right .cps-contact-form :-moz-placeholder {
-  color: #262626;
+  color: #5f5f69;
 }
 .cps-roadmap-right .copyright {
   bottom: 0;
@@ -5726,7 +5732,7 @@ a.page-numbers:active {
 .tabbed-link a {
   display: block;
   position: relative;
-  color: #262626;
+  color: #5f5f69;
   border: 1px solid #e7e7e7;
   padding: 32px 60px 32px 40px;
 }
@@ -5760,7 +5766,7 @@ a.page-numbers:active {
 .bubble-fact-item .fact-value {
   font-size: 3.6rem;
   margin: 0;
-  font-family: "Lato", sans-serif;
+  font-family: "Rubik", sans-serif;
   font-weight: 500;
 }
 .bubble-fact-item .fact-name {
