@@ -3217,8 +3217,8 @@ button:active {
   line-height: 2.6rem;
 }
 .style-3 .cps-testimonials-wrap .cps-testimonial-item blockquote:before {
-  content: "\e67e";
-  font-family: "themify";
+  content: "\f10e";
+  font-family: "FontAwesome";
   font-size: 2.5rem;
 }
 .style-3 .cps-testimonials-wrap .cps-testimonial-item .cps-reviewer-name {
