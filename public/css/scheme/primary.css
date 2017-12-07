@@ -179,10 +179,12 @@ footer.style-9{
 .btn:visited,
 .btn:active,
 .btn:active:focus,
+.navbar-default.style-5 .navbar-nav>li.signup-item>a,
 .navbar-default.style-12 .navbar-nav>li.signup-item>a,
 .navbar-default.style-8 .navbar-nav>li.signup-item>a,
 .navbar-default.style-9 .navbar-nav>li.signup-item>a,
 .cps-banner.style-3,
+.cps-banner.style-7 .cps-banner-form [type=submit],
 .cps-banner.style-9 .cps-banner-form [type=submit],
 .cps-progress-item .progress-bar,
 .cps-service-box .cps-service-icon span,
@@ -205,13 +207,6 @@ footer.style-9{
 .preloader-round{
     background-image: -webkit-gradient(linear, left top, right top, from(#00aff0), to(#99dff9));
     background-image: linear-gradient(to right, #00aff0, #99dff9);
-}
-
-.navbar-default.style-5 .navbar-nav>li.signup-item>a,
-.cps-banner.style-7 .cps-banner-form [type=submit]
-{
-  background-image: -webkit-gradient(linear, left top, right top, from(#4283ff), to(#4283ff));
-  background-image: linear-gradient(to right, #4283ff, #4283ff);
 }
 
 
