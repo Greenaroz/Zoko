@@ -2621,13 +2621,14 @@ button:active {
   color: #5f5f69;
 }
 .cps-package .cps-pack-feature-list {
-  list-style: none;
+  list-style: square;
   margin: 0;
-  padding: 0 30px;
-  text-align: center;
+  padding: 0 40px;
+  text-align: left;
   line-height: 3rem;
   color: #5f5f69;
 }
+
 .cps-theme-bg .cps-package .cps-pack-feature-list, .cps-gradient-bg .cps-package .cps-pack-feature-list {
   color: #5f5f69;
 }
@@ -2653,8 +2654,19 @@ button:active {
   margin-top: 40px;
   margin-bottom: 11px;
 }
+
+.cps-package.style-2 .cps-pack-category {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  padding: 0 20px 0px;
+  font-weight: bold;
+}
+
+
 .cps-package.style-2 .cps-pack-footer {
-  padding: 50px 30px;
+  padding: 30px 30px;
 }
 .cps-package.style-3 .cps-package-header {
   border-bottom-width: 0;
